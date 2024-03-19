@@ -1,0 +1,4 @@
+Blog on EDA using Synthetic Dataset
+
+Used Panda Packages for creating my synthetic dataset which EV Battery Health as the foundation. Together, we forged a robust sample of 1000 synthetic cases, carefully crafted with 9 features apiece. This fusion sparked a comprehensive exploration - transforming bland data into a vibrant landscape brimming with analytic potential.
+The synthesized cases of poor cell construction, thermal abuse, faulty assemblies, short circuits, temperature fluxes and more became the springboard to examine the interplay between maintenance, battery type, charging behaviors and environments. Segmenting by battery chemistry revealed insights into tailoring safer systems for both lithium-ion and lead-acid. This pivotal dataset was our guiding force to drive discoveries and make recommendations targeted to the nuances of each battery type’s performance.
